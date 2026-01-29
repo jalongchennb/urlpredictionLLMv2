@@ -1,0 +1,9 @@
+# 忽略大資料與模型
+*.csv
+*.csv.gz
+*.pth
+*.txt
+datacleanworkfolder/
+
+# 排除 README 不被忽略
+!README.md
